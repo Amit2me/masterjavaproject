@@ -1,0 +1,25 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# Compiled
+*.class
+*.jar
+
+# Mac
+.DS_Store
+
+# Others
+*.swp
+*.swo
+*~
+.gradle/
+build/
